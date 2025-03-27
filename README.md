@@ -16,17 +16,17 @@ NLP & Sentiment Analysis – AI-driven insights
 State Management – Provider or Riverpod (optional)
 
 📷 Demo
-<img src="/screenshots/ds01.png" alt="App Screenshot" width="300">
-<img src="/screenshots/ds02.png" alt="App Screenshot" width="300">
-<img src="/screenshots/ds03.png" alt="App Screenshot" width="300">
-<img src="/screenshots/ds04.png" alt="App Screenshot" width="300">
+<img src="/screenshots/ds01.png" alt="App Screenshot" width="500">
+<img src="/screenshots/ds02.png" alt="App Screenshot" width="500">
+<img src="/screenshots/ds03.png" alt="App Screenshot" width="500">
+
 🏗 Setup & Installation
 Clone the repo
 
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/financial-news-sentiment.git  
+git clone https://github.com/kw3ku/financial-news-sentiment.git  
 cd financial-news-sentiment
 Install dependencies
 flutter pub get
