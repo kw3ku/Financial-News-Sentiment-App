@@ -1,16 +1,57 @@
-# gitproj
+Financial News Sentiment Analyzer
+A Flutter app that fetches real-time financial news and applies sentiment analysis to categorize headlines as positive, negative, or neutral. This project demonstrates Flutter mobile development, API integration, and AI/ML techniques for analyzing financial sentiment.
 
-A new Flutter project.
+## 🚀 Features
+- Fetches live financial news using the News API.
+- Displays sentiment indicators (positive, negative, neutral) for each article.
+- Allows users to view detailed news content.
 
-## Getting Started
+🛠 Tech Stack
+Flutter (Dart) – UI development
 
-This project is a starting point for a Flutter application.
+REST APIs – Fetching live news
 
-A few resources to get you started if this is your first Flutter project:
+NLP & Sentiment Analysis – AI-driven insights
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+State Management – Provider or Riverpod (optional)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📷 Demo
+<img src="/screenshots/ds01.png" alt="App Screenshot" width="300">
+<img src="/screenshots/ds02.png" alt="App Screenshot" width="300">
+<img src="/screenshots/ds03.png" alt="App Screenshot" width="300">
+<img src="/screenshots/ds04.png" alt="App Screenshot" width="300">
+🏗 Setup & Installation
+Clone the repo
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/financial-news-sentiment.git  
+cd financial-news-sentiment
+Install dependencies
+flutter pub get
+
+flutter run
+
+
+
+bash
+Copy
+Edit
+flutter pub get  
+Run the app
+
+bash
+Copy
+Edit
+flutter run  
+📝 To-Do
+Implement custom ML model for better sentiment analysis
+
+Add news filtering & search
+
+Support dark mode
+
+📜 License
+This project is MIT licensed.
+
