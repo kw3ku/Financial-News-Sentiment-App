@@ -16,8 +16,8 @@ NLP & Sentiment Analysis – AI-driven insights
 State Management – Provider or Riverpod (optional)
 
 📷 Demo
-<img src="/screenshots/Screenshot02.png" alt="App Screenshot" width="500">
 <img src="/screenshots/Screenshot01.png" alt="App Screenshot" width="500">
+<img src="/screenshots/Screenshot02.png" alt="App Screenshot" width="500">
 <img src="/screenshots/ds02.png" alt="App Screenshot" width="500">
 <img src="/screenshots/ds05.png" alt="App Screenshot" width="500">
 
